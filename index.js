@@ -5,7 +5,7 @@ class Tree {
     this.species = species;
   }
   
-  definition() {
+  static definition() {
     return 
   }
 }
