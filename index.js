@@ -6,6 +6,7 @@ class Tree {
   }
   
   static definition() {
-    return 
+    return (
+      super.definition() + )
   }
 }
