@@ -7,7 +7,6 @@ class Tree {
   
   static definition() {
     return (
-      super.definition() + " ");
-      )
+      super.definition() + " ")
   }
 }
